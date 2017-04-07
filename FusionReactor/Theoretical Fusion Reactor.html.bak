@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Theoretical Fusion Reactor</title>
+  </head>
+  <body>
+    <p style="text-align: center;"><br>
+      <img style="width: 146px; height: 146px;" title="NaturalFusion" src="NaturalFusion.jpg"
+        alt="NaturalFusion">&nbsp;&nbsp; <img style="width: 146px; height: 146px;"
+        src="CompressedPlasma.jpg" alt="ToroidalFusion"></p>
+    <p style="text-align: center;"><span style="font-family: Times New Roman,Times,serif;"><span
+          style="text-decoration: underline;"><span style="font-weight: bold;">Theoretical
+            Fusion Reactor</span></span></span></p>
+    <span style="font-family: Times New Roman,Times,serif;"> </span>
+    <p style="text-align: center;"><span style="font-family: Times New Roman,Times,serif;">This
+        simulation takes real weights of reactants as input values and
+        calculates the energy output, in Kilowatt hours, as a function of
+        temperature. These values are for theoretical purposes, and are
+        representative of raw energy produced from fusion reactions between
+        Deuterium, Tritium, and their products. This raw energy could be used
+        for further computation such as, but not limited to, finding energy
+        losses from different conversions from heat to electricity, amounts of
+        each element in order to produce commercial power, et cetera. </span></p>
+  </body>
+</html>
